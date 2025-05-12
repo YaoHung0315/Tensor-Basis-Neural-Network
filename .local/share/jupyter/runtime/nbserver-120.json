@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/yaohung0315",
+  "password": false,
+  "pid": 120,
+  "port": 8888,
+  "secure": true,
+  "sock": "",
+  "token": "906534347970c8a271306313126c16e3",
+  "url": "https://0.0.0.0:8888/"
+}

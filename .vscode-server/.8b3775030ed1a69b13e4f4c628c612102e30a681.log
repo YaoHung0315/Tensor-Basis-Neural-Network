@@ -1,0 +1,106 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:41370 (IPv4)
+Extension host agent listening on 41370
+
+[15:42:57] 
+
+
+
+
+[15:42:57] Extension host agent started.
+[15:42:57] Started initializing default profile extensions in extensions installation folder. file:///home/yaohung0315/.vscode-server/extensions
+[15:42:57] Completed initializing default profile extensions in extensions installation folder. file:///home/yaohung0315/.vscode-server/extensions
+[15:42:57] [127.0.0.1][890f2da4][ExtensionHostConnection] New connection established.
+[15:42:57] [127.0.0.1][74a691e0][ManagementConnection] New connection established.
+[15:42:57] Installing extensions...
+[15:42:57] [127.0.0.1][890f2da4][ExtensionHostConnection] <208209> Launched Extension Host Process.
+[15:42:58] Installing extension 'ms-ceintl.vscode-language-pack-zh-hant'...
+[15:42:58] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hant
+[15:42:58] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+[15:42:59] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hant
+[15:42:59] Extracted extension to file:///home/yaohung0315/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.85.2024021409: ms-ceintl.vscode-language-pack-zh-hant
+[15:42:59] Renamed to /home/yaohung0315/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.85.2024021409
+[15:42:59] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hant
+[15:42:59] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hant
+[15:43:00] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hant
+[15:43:00] Extension 'ms-ceintl.vscode-language-pack-zh-hant' v1.85.2024021409 was successfully installed.
+[15:43:18] [127.0.0.1][1db349ea][ManagementConnection] New connection established.
+[15:43:18] [127.0.0.1][b9d5147b][ExtensionHostConnection] New connection established.
+[15:43:18] [127.0.0.1][b9d5147b][ExtensionHostConnection] <209806> Launched Extension Host Process.
+[15:44:54] [127.0.0.1][1611aabd][ManagementConnection] New connection established.
+[15:44:54] [127.0.0.1][c2083ad8][ExtensionHostConnection] New connection established.
+[15:44:54] [127.0.0.1][c2083ad8][ExtensionHostConnection] <217645> Launched Extension Host Process.
+[15:44:57] [127.0.0.1][74a691e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:44:57] [127.0.0.1][890f2da4][ExtensionHostConnection] <208209> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[15:44:57] Cancelling previous shutdown timeout
+[15:45:08] [127.0.0.1][1611aabd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:45:08] [127.0.0.1][c2083ad8][ExtensionHostConnection] <217645> Extension Host Process exited with code: 0, signal: null.
+[15:45:09] [127.0.0.1][9f476dd4][ExtensionHostConnection] New connection established.
+[15:45:09] [127.0.0.1][9f476dd4][ExtensionHostConnection] <219470> Launched Extension Host Process.
+[15:45:09] [127.0.0.1][08df1f45][ManagementConnection] New connection established.
+[15:45:20] [127.0.0.1][9c319d38][ManagementConnection] New connection established.
+[15:45:20] [127.0.0.1][6cf241e3][ExtensionHostConnection] New connection established.
+[15:45:20] [127.0.0.1][6cf241e3][ExtensionHostConnection] <220540> Launched Extension Host Process.
+[15:45:30] [127.0.0.1][9c319d38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:45:30] [127.0.0.1][6cf241e3][ExtensionHostConnection] <220540> Extension Host Process exited with code: 0, signal: null.
+[15:45:30] [127.0.0.1][a671b081][ManagementConnection] New connection established.
+[15:45:30] [127.0.0.1][5d0d0a28][ExtensionHostConnection] New connection established.
+[15:45:30] [127.0.0.1][5d0d0a28][ExtensionHostConnection] <221801> Launched Extension Host Process.
+[15:45:40] [127.0.0.1][a671b081][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:45:40] [127.0.0.1][5d0d0a28][ExtensionHostConnection] <221801> Extension Host Process exited with code: 0, signal: null.
+[15:45:40] [127.0.0.1][4266b579][ManagementConnection] New connection established.
+[15:45:40] [127.0.0.1][7db623d7][ExtensionHostConnection] New connection established.
+[15:45:40] [127.0.0.1][7db623d7][ExtensionHostConnection] <222453> Launched Extension Host Process.
+[15:56:08] [127.0.0.1][08df1f45][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:08] [127.0.0.1][9f476dd4][ExtensionHostConnection] <219470> Extension Host Process exited with code: 0, signal: null.
+[15:56:24] [127.0.0.1][1db349ea][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:24] [127.0.0.1][b9d5147b][ExtensionHostConnection] <209806> Extension Host Process exited with code: 0, signal: null.
+[15:56:25] [127.0.0.1][34ba0ccb][ManagementConnection] New connection established.
+[15:56:26] [127.0.0.1][a3a203af][ExtensionHostConnection] New connection established.
+[15:56:26] [127.0.0.1][a3a203af][ExtensionHostConnection] <274537> Launched Extension Host Process.
+[15:56:37] [127.0.0.1][34ba0ccb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:37] [127.0.0.1][a3a203af][ExtensionHostConnection] <274537> Extension Host Process exited with code: 0, signal: null.
+[15:56:37] [127.0.0.1][9612fa8e][ManagementConnection] New connection established.
+[15:56:37] [127.0.0.1][5875ad9e][ExtensionHostConnection] New connection established.
+[15:56:37] [127.0.0.1][5875ad9e][ExtensionHostConnection] <275262> Launched Extension Host Process.
+[15:56:48] [127.0.0.1][4266b579][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:48] [127.0.0.1][7db623d7][ExtensionHostConnection] <222453> Extension Host Process exited with code: 0, signal: null.
+[15:57:24] [127.0.0.1][9612fa8e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:57:24] [127.0.0.1][5875ad9e][ExtensionHostConnection] <275262> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:57:24] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:57:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:57:57] Cancelling previous shutdown timeout
+[15:57:57] [127.0.0.1][2b48e877][ManagementConnection] New connection established.
+[15:57:57] [127.0.0.1][8cc95feb][ExtensionHostConnection] New connection established.
+[15:57:57] [127.0.0.1][8cc95feb][ExtensionHostConnection] <282194> Launched Extension Host Process.
+[15:58:12] [127.0.0.1][2b48e877][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:58:12] [127.0.0.1][8cc95feb][ExtensionHostConnection] <282194> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[15:58:12] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[15:58:12] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:58:40] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:58:40] Cancelling previous shutdown timeout
+[15:58:40] [127.0.0.1][61c4063e][ManagementConnection] New connection established.
+[15:58:40] [127.0.0.1][bf1d4419][ExtensionHostConnection] New connection established.
+[15:58:40] [127.0.0.1][bf1d4419][ExtensionHostConnection] <286360> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:03:40] New EH opened, aborting shutdown
+[16:05:13] [127.0.0.1][bf1d4419][ExtensionHostConnection] The client has reconnected.
+[19:05:28] [127.0.0.1][bf1d4419][ExtensionHostConnection] <286360> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:05:28] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[19:10:28] Last EH closed, shutting down

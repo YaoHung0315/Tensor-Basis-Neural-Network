@@ -1,0 +1,13 @@
+{
+  "shell_port": 35461,
+  "iopub_port": 35463,
+  "stdin_port": 59633,
+  "control_port": 43223,
+  "hb_port": 34369,
+  "ip": "127.0.0.1",
+  "key": "a41bf409-91d3dd71dcc69c3a884656a2",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/yaohung0315/TBNN/WBRei7/TBNN_main_GPU.ipynb"
+}

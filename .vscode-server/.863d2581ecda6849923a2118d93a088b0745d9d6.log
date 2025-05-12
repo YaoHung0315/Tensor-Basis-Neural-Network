@@ -1,0 +1,30 @@
+Warning: Missing GLIBCXX >= 3.4.25! from /usr/lib64/libstdc++.so.6.0.19
+Warning: Missing GLIBC >= 2.28! from /usr/lib64/libc-2.17.so
+Error: Missing required dependencies. Please refer to our FAQ https://aka.ms/vscode-remote/faq/old-linux for additional information.
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:36004 (IPv4)
+Extension host agent listening on 36004
+
+[23:36:56] 
+
+
+
+
+[23:36:56] Extension host agent started.
+[23:36:56] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hant /home/yaohung0315/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.85.2024021409
+[23:36:57] [127.0.0.1][62ddc062][ManagementConnection] New connection established.
+[23:36:57] [127.0.0.1][03c83408][ExtensionHostConnection] New connection established.
+[23:36:57] [127.0.0.1][03c83408][ExtensionHostConnection] <7659> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[23:41:56] New EH opened, aborting shutdown
+[02:40:58] [127.0.0.1][03c83408][ExtensionHostConnection] <7659> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:40:58] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[02:45:58] Last EH closed, shutting down

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 121,
+  "port": 8888,
+  "root_dir": "/home/yaohung0315",
+  "secure": true,
+  "sock": "",
+  "token": "0a8fd91abe009a15fbc564cd43b39be2",
+  "url": "https://ay4a30ctr1739250738419-x7dnn:8888/",
+  "version": "2.14.2"
+}

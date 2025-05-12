@@ -1,0 +1,13 @@
+{
+  "shell_port": 60595,
+  "iopub_port": 57717,
+  "stdin_port": 35441,
+  "control_port": 36251,
+  "hb_port": 34063,
+  "ip": "127.0.0.1",
+  "key": "21b75ee3-f4566fe3a866f0b12a859b3d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/yaohung0315/ML_TBNN/WBRei5/TBNN_main.ipynb"
+}

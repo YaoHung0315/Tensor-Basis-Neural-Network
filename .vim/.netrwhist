@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/work/yaohung0315/BoycottL_lockexchange_full_case_DEM3_settling_v_0.06'
+let g:netrw_dirhist_2='/work/yaohung0315/BoycottL_lockexchange_full_case_DEM3_settling_v_0.1_0.01_big_case_width_2_test'
+let g:netrw_dirhist_3='/home/yaohung0315/.vim'
+let g:netrw_dirhist_4='/home/yaohung0315'
+let g:netrw_dirhist_5='/home'

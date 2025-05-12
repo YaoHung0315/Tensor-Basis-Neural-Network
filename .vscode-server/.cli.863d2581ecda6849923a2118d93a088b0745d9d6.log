@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:43562
+looking for token e64e168f-3b80-4c93-9f28-d4451803707b, got Some("e64e168f-3b80-4c93-9f28-d4451803707b")
+[2024-03-18 23:35:42] info Disposed of connection to running server.
+[2024-03-18 23:35:42] info Checking /home/yaohung0315/.vscode-server/cli/servers/Stable-863d2581ecda6849923a2118d93a088b0745d9d6/log.txt and /home/yaohung0315/.vscode-server/cli/servers/Stable-863d2581ecda6849923a2118d93a088b0745d9d6/pid.txt for a running server...
+[2024-03-18 23:35:43] info Downloading Visual Studio Code server -> /tmp/.tmp7mhFzU/vscode-server-linux-x64.tar.gz
+[2024-03-18 23:35:48] info Starting server...
+[2024-03-18 23:35:50] info Server started
+[2024-03-18 23:36:24] info Disposed of connection to running server.
