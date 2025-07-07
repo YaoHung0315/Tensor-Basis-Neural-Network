@@ -12,7 +12,7 @@ The modeling strategy consists of two stages:
 The overall structure is illustrated below:
 
 <p align="center">
-  <img src="./figures/flow_chart_poster.png" alt="Framework overview" width="800"/>
+  <img src="./figures/flow_chart.jpg" alt="Framework overview" width="800"/>
 </p>
 
 *Figure: Hybrid framework incorporating TBNN and regression-based eddy viscosity correction.*
